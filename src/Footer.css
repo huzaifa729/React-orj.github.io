@@ -1,0 +1,115 @@
+
+.fin{
+    display: flex;
+    padding-top: 25px;
+    background: #282c34;
+    text-align: center;
+    justify-content: center;
+    height: 50px;
+}
+
+.dik{
+    margin-left: 20px;
+}
+
+.btn{
+    background-color: #61dafb;
+    padding: 10px 23px;
+    border: none;
+    outline: none;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.tal{
+    color: #61dafb;
+    font-size: 18px;
+    padding-top: 8px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+.tal::after{
+    content: ">";
+    margin-left: 10px;
+    font-size: 17px;
+}
+
+.tal:hover{
+    color: white;
+}
+
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+
+
+.dy{
+    background-color: #20232a;
+    padding-bottom: 50px;
+    height: auto;
+    color: blanchedalmond;
+}
+
+
+.darr{
+    display: flex;
+    padding-top: 30px;
+    margin-left: 30px;
+}
+
+.veer{
+    width: 40%;
+    
+}
+
+.image img{
+   width: 200px;
+   object-fit: contain;
+}
+
+.foots{
+    color: #999;
+    font-size: 18px;
+   font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.nav{
+    display: flex;
+
+}
+
+.foot{
+   
+padding: 3px 50px;
+    color: #999;
+}
+
+.lin{
+   color: white;
+cursor: pointer;
+}
+
+.li{
+    list-style: none;
+    padding: 5px;
+}
+
+.li:hover{
+    color: #61dafb; 
+}
+
+
+
+.searchIcon{
+
+    color: #999;
+    width: 1px;
+    
+}
+
+
+
+
+

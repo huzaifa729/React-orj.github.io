@@ -1,0 +1,105 @@
+.header{
+    background-color: #20232a;
+    padding: 15px 9px; 
+    display: flex;
+   position: sticky;
+   top: 0;
+    
+}
+
+
+
+.imj{
+    margin-left: 7%;
+    padding-top: 5px;
+}
+.imj img{
+    height: 20px;
+}
+
+.ops{
+    color: #61dafb;
+    padding: 0px 7px;
+    font-size: 22px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+
+.nav{
+    margin-left: 7%;
+}
+
+.ul{
+   display: inline-flex;
+}
+
+.ol{
+    list-style: none;
+    color: white;
+    padding: 2px 18px;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    cursor: pointer;
+}
+
+.ol:hover{
+    color: #61dafb;
+}
+
+.Form{
+    margin-left: 3%;
+    border: 1px solid rgb(51, 50, 50);
+    display: inline-flex;
+   
+}
+
+.icon{
+    color: white;
+    margin-left: 5px;
+   
+}
+
+.text{
+  border: none;
+ outline: none;
+   background: none;
+   flex: 1;
+   font-size: 16px;
+   color: white;
+}
+
+
+.avi{
+    margin-left: 5%;
+    display: flex; 
+    /* margin-top: -6px; */
+
+}
+
+.pok{
+    color: white;
+     padding: 3px 15px; 
+     cursor: pointer;
+}
+
+.dil{
+    /* display: inline-flex; */
+    margin-left: 4px;
+}
+
+
+
+.oi{
+    color: white;
+    margin-right: -11px;
+}
+
+
+
+.ner{
+   margin-top: 4px;
+}
+
+.pok:hover{
+    color: #61dafb;
+}
